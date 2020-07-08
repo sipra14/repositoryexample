@@ -3,6 +3,8 @@
 		<title>God Morning</title>
 	</head>
 	<body>
-		<p>Have a nice day.</p>
+		<p>how are you?</p>
+		<p>Have a good day.</p>
+
 	</body>
 </html>
